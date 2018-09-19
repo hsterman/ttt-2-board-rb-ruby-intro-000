@@ -1,4 +1,4 @@
 # Define the variable board below.
 def board
-  array = [" ", " ", " ", " ", " ", " ", " " " ", " "]
+  row = [" ", " ", " ", " ", " ", " ", " " " ", " "]
 end
